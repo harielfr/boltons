@@ -314,7 +314,7 @@ def test_socketutils_netstring():
         client.read_ns()
         raise Exception('read from closed socket')
     except ConnectionClosed:
-        print("raised ConnectionClosed correctly")
+        pass
 
     # test big messages
     client = client_connect()
