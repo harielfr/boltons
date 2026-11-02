@@ -1,0 +1,551 @@
+{
+  "boltons/strutils.py": {
+    "loc": 1391,
+    "lloc": 497,
+    "sloc": 560,
+    "comments": 135,
+    "multi": 480,
+    "blank": 263,
+    "single_comments": 88
+  },
+  "boltons/mboxutils.py": {
+    "loc": 150,
+    "lloc": 54,
+    "sloc": 54,
+    "comments": 43,
+    "multi": 30,
+    "blank": 24,
+    "single_comments": 42
+  },
+  "boltons/gcutils.py": {
+    "loc": 164,
+    "lloc": 38,
+    "sloc": 33,
+    "comments": 33,
+    "multi": 66,
+    "blank": 33,
+    "single_comments": 32
+  },
+  "boltons/jsonutils.py": {
+    "loc": 266,
+    "lloc": 145,
+    "sloc": 140,
+    "comments": 33,
+    "multi": 54,
+    "blank": 36,
+    "single_comments": 36
+  },
+  "boltons/queueutils.py": {
+    "loc": 223,
+    "lloc": 97,
+    "sloc": 87,
+    "comments": 35,
+    "multi": 67,
+    "blank": 34,
+    "single_comments": 35
+  },
+  "boltons/fileutils.py": {
+    "loc": 728,
+    "lloc": 386,
+    "sloc": 382,
+    "comments": 58,
+    "multi": 170,
+    "blank": 120,
+    "single_comments": 56
+  },
+  "boltons/cacheutils.py": {
+    "loc": 869,
+    "lloc": 443,
+    "sloc": 432,
+    "comments": 69,
+    "multi": 234,
+    "blank": 136,
+    "single_comments": 67
+  },
+  "boltons/funcutils.py": {
+    "loc": 1082,
+    "lloc": 444,
+    "sloc": 467,
+    "comments": 78,
+    "multi": 371,
+    "blank": 171,
+    "single_comments": 73
+  },
+  "boltons/socketutils.py": {
+    "loc": 766,
+    "lloc": 364,
+    "sloc": 330,
+    "comments": 63,
+    "multi": 269,
+    "blank": 113,
+    "single_comments": 54
+  },
+  "boltons/listutils.py": {
+    "loc": 350,
+    "lloc": 239,
+    "sloc": 225,
+    "comments": 41,
+    "multi": 39,
+    "blank": 50,
+    "single_comments": 36
+  },
+  "boltons/excutils.py": {
+    "loc": 287,
+    "lloc": 185,
+    "sloc": 183,
+    "comments": 38,
+    "multi": 19,
+    "blank": 48,
+    "single_comments": 37
+  },
+  "boltons/setutils.py": {
+    "loc": 989,
+    "lloc": 706,
+    "sloc": 666,
+    "comments": 119,
+    "multi": 109,
+    "blank": 135,
+    "single_comments": 79
+  },
+  "boltons/ioutils.py": {
+    "loc": 592,
+    "lloc": 373,
+    "sloc": 358,
+    "comments": 46,
+    "multi": 76,
+    "blank": 92,
+    "single_comments": 66
+  },
+  "boltons/ecoutils.py": {
+    "loc": 479,
+    "lloc": 194,
+    "sloc": 203,
+    "comments": 57,
+    "multi": 123,
+    "blank": 99,
+    "single_comments": 54
+  },
+  "boltons/timeutils.py": {
+    "loc": 632,
+    "lloc": 241,
+    "sloc": 239,
+    "comments": 73,
+    "multi": 212,
+    "blank": 109,
+    "single_comments": 72
+  },
+  "boltons/__init__.py": {
+    "loc": 1,
+    "lloc": 1,
+    "sloc": 1,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "boltons/mathutils.py": {
+    "loc": 257,
+    "lloc": 129,
+    "sloc": 124,
+    "comments": 31,
+    "multi": 59,
+    "blank": 44,
+    "single_comments": 30
+  },
+  "boltons/namedutils.py": {
+    "loc": 385,
+    "lloc": 111,
+    "sloc": 219,
+    "comments": 55,
+    "multi": 54,
+    "blank": 57,
+    "single_comments": 55
+  },
+  "boltons/deprutils.py": {
+    "loc": 63,
+    "lloc": 25,
+    "sloc": 25,
+    "comments": 30,
+    "multi": 0,
+    "blank": 8,
+    "single_comments": 30
+  },
+  "boltons/tableutils.py": {
+    "loc": 588,
+    "lloc": 311,
+    "sloc": 328,
+    "comments": 46,
+    "multi": 125,
+    "blank": 89,
+    "single_comments": 46
+  },
+  "boltons/formatutils.py": {
+    "loc": 356,
+    "lloc": 171,
+    "sloc": 156,
+    "comments": 46,
+    "multi": 97,
+    "blank": 61,
+    "single_comments": 42
+  },
+  "boltons/easterutils.py": {
+    "loc": 44,
+    "lloc": 6,
+    "sloc": 5,
+    "comments": 29,
+    "multi": 5,
+    "blank": 5,
+    "single_comments": 29
+  },
+  "boltons/urlutils.py": {
+    "loc": 1610,
+    "lloc": 803,
+    "sloc": 782,
+    "comments": 80,
+    "multi": 497,
+    "blank": 252,
+    "single_comments": 79
+  },
+  "boltons/debugutils.py": {
+    "loc": 292,
+    "lloc": 160,
+    "sloc": 162,
+    "comments": 39,
+    "multi": 50,
+    "blank": 44,
+    "single_comments": 36
+  },
+  "boltons/typeutils.py": {
+    "loc": 180,
+    "lloc": 57,
+    "sloc": 53,
+    "comments": 29,
+    "multi": 68,
+    "blank": 30,
+    "single_comments": 29
+  },
+  "boltons/statsutils.py": {
+    "loc": 847,
+    "lloc": 334,
+    "sloc": 324,
+    "comments": 49,
+    "multi": 354,
+    "blank": 134,
+    "single_comments": 35
+  },
+  "boltons/dictutils.py": {
+    "loc": 1132,
+    "lloc": 615,
+    "sloc": 579,
+    "comments": 55,
+    "multi": 311,
+    "blank": 182,
+    "single_comments": 60
+  },
+  "boltons/pathutils.py": {
+    "loc": 183,
+    "lloc": 38,
+    "sloc": 36,
+    "comments": 34,
+    "multi": 88,
+    "blank": 25,
+    "single_comments": 34
+  },
+  "boltons/iterutils.py": {
+    "loc": 1659,
+    "lloc": 645,
+    "sloc": 608,
+    "comments": 61,
+    "multi": 690,
+    "blank": 306,
+    "single_comments": 55
+  },
+  "boltons/tbutils.py": {
+    "loc": 831,
+    "lloc": 423,
+    "sloc": 408,
+    "comments": 67,
+    "multi": 224,
+    "blank": 130,
+    "single_comments": 69
+  },
+  "tests/test_ioutils.py": {
+    "loc": 566,
+    "lloc": 451,
+    "sloc": 409,
+    "comments": 10,
+    "multi": 3,
+    "blank": 90,
+    "single_comments": 64
+  },
+  "tests/test_formatutils.py": {
+    "loc": 74,
+    "lloc": 44,
+    "sloc": 56,
+    "comments": 0,
+    "multi": 0,
+    "blank": 18,
+    "single_comments": 0
+  },
+  "tests/test_ecoutils.py": {
+    "loc": 54,
+    "lloc": 34,
+    "sloc": 34,
+    "comments": 1,
+    "multi": 0,
+    "blank": 19,
+    "single_comments": 1
+  },
+  "tests/test_setutils.py": {
+    "loc": 333,
+    "lloc": 271,
+    "sloc": 251,
+    "comments": 35,
+    "multi": 0,
+    "blank": 57,
+    "single_comments": 25
+  },
+  "tests/test_funcutils_fb.py": {
+    "loc": 296,
+    "lloc": 195,
+    "sloc": 211,
+    "comments": 2,
+    "multi": 0,
+    "blank": 82,
+    "single_comments": 3
+  },
+  "tests/test_typeutils.py": {
+    "loc": 18,
+    "lloc": 12,
+    "sloc": 12,
+    "comments": 0,
+    "multi": 0,
+    "blank": 6,
+    "single_comments": 0
+  },
+  "tests/test_iterutils.py": {
+    "loc": 699,
+    "lloc": 452,
+    "sloc": 483,
+    "comments": 22,
+    "multi": 22,
+    "blank": 173,
+    "single_comments": 21
+  },
+  "tests/__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "tests/test_cacheutils.py": {
+    "loc": 520,
+    "lloc": 363,
+    "sloc": 348,
+    "comments": 34,
+    "multi": 24,
+    "blank": 121,
+    "single_comments": 27
+  },
+  "tests/test_dictutils.py": {
+    "loc": 601,
+    "lloc": 447,
+    "sloc": 457,
+    "comments": 19,
+    "multi": 0,
+    "blank": 128,
+    "single_comments": 16
+  },
+  "tests/test_strutils.py": {
+    "loc": 399,
+    "lloc": 204,
+    "sloc": 237,
+    "comments": 60,
+    "multi": 0,
+    "blank": 93,
+    "single_comments": 69
+  },
+  "tests/test_listutils.py": {
+    "loc": 242,
+    "lloc": 172,
+    "sloc": 195,
+    "comments": 16,
+    "multi": 0,
+    "blank": 37,
+    "single_comments": 10
+  },
+  "tests/test_namedutils.py": {
+    "loc": 48,
+    "lloc": 30,
+    "sloc": 30,
+    "comments": 2,
+    "multi": 0,
+    "blank": 16,
+    "single_comments": 2
+  },
+  "tests/test_tbutils.py": {
+    "loc": 104,
+    "lloc": 75,
+    "sloc": 80,
+    "comments": 6,
+    "multi": 0,
+    "blank": 18,
+    "single_comments": 6
+  },
+  "tests/test_fileutils.py": {
+    "loc": 106,
+    "lloc": 73,
+    "sloc": 73,
+    "comments": 1,
+    "multi": 0,
+    "blank": 32,
+    "single_comments": 1
+  },
+  "tests/test_gcutils.py": {
+    "loc": 32,
+    "lloc": 21,
+    "sloc": 21,
+    "comments": 1,
+    "multi": 0,
+    "blank": 10,
+    "single_comments": 1
+  },
+  "tests/test_funcutils.py": {
+    "loc": 145,
+    "lloc": 103,
+    "sloc": 107,
+    "comments": 0,
+    "multi": 0,
+    "blank": 38,
+    "single_comments": 0
+  },
+  "tests/test_socketutils.py": {
+    "loc": 425,
+    "lloc": 315,
+    "sloc": 313,
+    "comments": 23,
+    "multi": 11,
+    "blank": 83,
+    "single_comments": 18
+  },
+  "tests/test_jsonutils.py": {
+    "loc": 122,
+    "lloc": 87,
+    "sloc": 84,
+    "comments": 4,
+    "multi": 3,
+    "blank": 31,
+    "single_comments": 4
+  },
+  "tests/test_tableutils.py": {
+    "loc": 87,
+    "lloc": 44,
+    "sloc": 59,
+    "comments": 9,
+    "multi": 0,
+    "blank": 19,
+    "single_comments": 9
+  },
+  "tests/test_funcutils_fb_py3.py": {
+    "loc": 381,
+    "lloc": 215,
+    "sloc": 245,
+    "comments": 25,
+    "multi": 6,
+    "blank": 108,
+    "single_comments": 22
+  },
+  "tests/conftest.py": {
+    "loc": 26,
+    "lloc": 18,
+    "sloc": 16,
+    "comments": 1,
+    "multi": 4,
+    "blank": 6,
+    "single_comments": 0
+  },
+  "tests/test_timeutils.py": {
+    "loc": 154,
+    "lloc": 93,
+    "sloc": 100,
+    "comments": 9,
+    "multi": 0,
+    "blank": 45,
+    "single_comments": 9
+  },
+  "tests/test_mathutils.py": {
+    "loc": 147,
+    "lloc": 102,
+    "sloc": 110,
+    "comments": 7,
+    "multi": 0,
+    "blank": 28,
+    "single_comments": 9
+  },
+  "tests/test_debugutils_trace.py": {
+    "loc": 87,
+    "lloc": 55,
+    "sloc": 55,
+    "comments": 0,
+    "multi": 0,
+    "blank": 32,
+    "single_comments": 0
+  },
+  "tests/test_urlutils.py": {
+    "loc": 504,
+    "lloc": 236,
+    "sloc": 357,
+    "comments": 43,
+    "multi": 0,
+    "blank": 116,
+    "single_comments": 31
+  },
+  "tests/test_tbutils_parsed_exc.py": {
+    "loc": 109,
+    "lloc": 42,
+    "sloc": 81,
+    "comments": 0,
+    "multi": 7,
+    "blank": 20,
+    "single_comments": 1
+  },
+  "tests/test_statsutils.py": {
+    "loc": 45,
+    "lloc": 28,
+    "sloc": 30,
+    "comments": 5,
+    "multi": 0,
+    "blank": 10,
+    "single_comments": 5
+  },
+  "tests/test_queueutils.py": {
+    "loc": 50,
+    "lloc": 39,
+    "sloc": 39,
+    "comments": 2,
+    "multi": 0,
+    "blank": 9,
+    "single_comments": 2
+  },
+  "tests/test_pathutils.py": {
+    "loc": 41,
+    "lloc": 31,
+    "sloc": 31,
+    "comments": 1,
+    "multi": 0,
+    "blank": 9,
+    "single_comments": 1
+  },
+  "tests/test_statsutils_histogram.py": {
+    "loc": 103,
+    "lloc": 35,
+    "sloc": 76,
+    "comments": 3,
+    "multi": 0,
+    "blank": 24,
+    "single_comments": 3
+  }
+}

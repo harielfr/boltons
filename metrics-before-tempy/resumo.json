@@ -1,0 +1,38 @@
+{
+  "etapa": "before",
+  "data": "2026-10-30T16:21:35",
+  "commit_projeto": "4e5faa3d7e4008d89e0d8bf1ea87b6d9a061a16d",
+  "commit_tempy": "4c945d121d645b52fefb8f1b4f3e6caeec7c9095",
+  "arquivos_analisados": 15,
+  "arquivos_com_erro": 0,
+  "total_smells": 207,
+  "por_tipo": {
+    "Conditional Test Logic": 107,
+    "Exception Handling": 29,
+    "Unknown Test": 24,
+    "Redundant Print": 16,
+    "Non-Functional Statement": 14,
+    "Verbose Test": 11,
+    "Programming Paradigms Blend": 3,
+    "Undefined Test": 2,
+    "Sleepy Test": 1
+  },
+  "por_arquivo": {
+    "tests/test_socketutils.py": 47,
+    "tests/test_dictutils.py": 30,
+    "tests/test_cacheutils.py": 27,
+    "tests/test_iterutils.py": 21,
+    "tests/test_setutils.py": 21,
+    "tests/test_ioutils.py": 17,
+    "tests/test_listutils.py": 11,
+    "tests/test_urlutils.py": 10,
+    "tests/test_funcutils_fb.py": 5,
+    "tests/test_mathutils.py": 5,
+    "tests/test_timeutils.py": 4,
+    "tests/test_namedutils.py": 3,
+    "tests/test_strutils.py": 3,
+    "tests/test_debugutils_trace.py": 2,
+    "tests/test_funcutils_fb_py3.py": 1
+  },
+  "erros": []
+}

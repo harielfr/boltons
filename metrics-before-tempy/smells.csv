@@ -1,0 +1,208 @@
+arquivo,smell,metodo,linhas
+tests/test_cacheutils.py,Conditional Test Logic,test_lru_add,21
+tests/test_cacheutils.py,Conditional Test Logic,test_lri,30
+tests/test_cacheutils.py,Conditional Test Logic,test_lri,34
+tests/test_cacheutils.py,Conditional Test Logic,test_lri,37
+tests/test_cacheutils.py,Conditional Test Logic,test_lri,46
+tests/test_cacheutils.py,Conditional Test Logic,test_lri,47
+tests/test_cacheutils.py,Conditional Test Logic,test_lri,51
+tests/test_cacheutils.py,Conditional Test Logic,test_cache_sizes_on_repeat_insertions,89
+tests/test_cacheutils.py,Conditional Test Logic,test_cache_sizes_on_repeat_insertions,95
+tests/test_cacheutils.py,Conditional Test Logic,test_cache_sizes_on_repeat_insertions,96
+tests/test_cacheutils.py,Conditional Test Logic,test_lru_with_dupes,198
+tests/test_cacheutils.py,Conditional Test Logic,test_lru_with_dupes_2,208
+tests/test_cacheutils.py,Conditional Test Logic,test_min_id_map,427
+tests/test_cacheutils.py,Conditional Test Logic,test_min_id_map,439
+tests/test_cacheutils.py,Conditional Test Logic,test_min_id_map,443
+tests/test_cacheutils.py,Exception Handling,test_lru_basic,117
+tests/test_cacheutils.py,Exception Handling,test_lru_basic,127
+tests/test_cacheutils.py,Redundant Print,test_callable_cached_dec,297
+tests/test_cacheutils.py,Redundant Print,test_cachedmethod,356
+tests/test_cacheutils.py,Redundant Print,test_cachedmethod,357
+tests/test_cacheutils.py,Unknown Test,test_lri_cache_eviction,55
+tests/test_cacheutils.py,Unknown Test,test_cachedmethod_maintains_func_abstraction,361
+tests/test_cacheutils.py,Unknown Test,test_cachedproperty_maintains_func_abstraction,411
+tests/test_cacheutils.py,Verbose Test,test_lru_basic,102;166
+tests/test_cacheutils.py,Verbose Test,test_cachedmethod,302;358
+tests/test_cacheutils.py,Non-Functional Statement,test_lru_basic,120
+tests/test_cacheutils.py,Non-Functional Statement,test_lru_basic,130
+tests/test_debugutils_trace.py,Exception Handling,test_trace_exc,48
+tests/test_debugutils_trace.py,Non-Functional Statement,test_trace_exc,43
+tests/test_dictutils.py,Conditional Test Logic,test_todict,39
+tests/test_dictutils.py,Conditional Test Logic,test_copy,79
+tests/test_dictutils.py,Conditional Test Logic,test_copy,83
+tests/test_dictutils.py,Conditional Test Logic,test_clear,129
+tests/test_dictutils.py,Conditional Test Logic,test_multi_correctness,159
+tests/test_dictutils.py,Conditional Test Logic,test_kv_consistency,167
+tests/test_dictutils.py,Conditional Test Logic,test_kv_consistency,170
+tests/test_dictutils.py,Conditional Test Logic,test_update,193
+tests/test_dictutils.py,Conditional Test Logic,test_update_extend,209
+tests/test_dictutils.py,Conditional Test Logic,test_update_extend,217
+tests/test_dictutils.py,Conditional Test Logic,test_invert,225
+tests/test_dictutils.py,Conditional Test Logic,test_invert,231
+tests/test_dictutils.py,Conditional Test Logic,test_poplast,236
+tests/test_dictutils.py,Conditional Test Logic,test_reversed,318
+tests/test_dictutils.py,Conditional Test Logic,test_reversed,321
+tests/test_dictutils.py,Conditional Test Logic,test_reversed,326
+tests/test_dictutils.py,Conditional Test Logic,test_reversed,333
+tests/test_dictutils.py,Conditional Test Logic,test_reversed,334
+tests/test_dictutils.py,Conditional Test Logic,test_frozendict_api,589
+tests/test_dictutils.py,Conditional Test Logic,test_frozendict_api,590
+tests/test_dictutils.py,Conditional Test Logic,test_frozendict_api,593
+tests/test_dictutils.py,Conditional Test Logic,test_frozendict_api,596
+tests/test_dictutils.py,Exception Handling,test_pop,249
+tests/test_dictutils.py,Exception Handling,test_pop_all,301
+tests/test_dictutils.py,Unknown Test,test_frozendict_ior,537
+tests/test_dictutils.py,Verbose Test,test_one_to_one,385;442
+tests/test_dictutils.py,Verbose Test,test_frozendict,478;533
+tests/test_dictutils.py,Verbose Test,test_frozendict_api,545;601
+tests/test_dictutils.py,Non-Functional Statement,test_pop,253
+tests/test_dictutils.py,Non-Functional Statement,test_pop_all,305
+tests/test_funcutils_fb.py,Unknown Test,test_wraps_unknown_args,123
+tests/test_funcutils_fb.py,Unknown Test,test_FunctionBuilder_invalid_args,135
+tests/test_funcutils_fb.py,Unknown Test,test_FunctionBuilder_invalid_body,140
+tests/test_funcutils_fb.py,Unknown Test,test_wraps_wrappers,156
+tests/test_funcutils_fb.py,Verbose Test,test_wraps_injected,56;104
+tests/test_funcutils_fb_py3.py,Conditional Test Logic,test_remove_kwonly_arg,87
+tests/test_ioutils.py,Conditional Test Logic,test_truthy,199
+tests/test_ioutils.py,Conditional Test Logic,test_instance_check,204
+tests/test_ioutils.py,Conditional Test Logic,test_closed_file_method_valueerrors,214
+tests/test_ioutils.py,Conditional Test Logic,test_write_returns_byte_count,288
+tests/test_ioutils.py,Conditional Test Logic,test_buffered_writer_flush,298
+tests/test_ioutils.py,Conditional Test Logic,test_write_returns_character_count,398
+tests/test_ioutils.py,Conditional Test Logic,test_relative_backwards_seek_uses_character_position,409
+tests/test_ioutils.py,Conditional Test Logic,test_negative_destination_rejected_without_moving,417
+tests/test_ioutils.py,Conditional Test Logic,test_negative_destination_rejected_without_moving,422
+tests/test_ioutils.py,Exception Handling,test_rollover_custom_directory,44
+tests/test_ioutils.py,Exception Handling,test_compare_err,79
+tests/test_ioutils.py,Exception Handling,test_buffered_writer_flush,301
+tests/test_ioutils.py,Exception Handling,test_buffered_writer_flush,306
+tests/test_ioutils.py,Unknown Test,test_truthy,195
+tests/test_ioutils.py,Unknown Test,test_instance_check,202
+tests/test_ioutils.py,Programming Paradigms Blend,(nível do módulo),14;17
+tests/test_ioutils.py,Non-Functional Statement,test_compare_err,82
+tests/test_iterutils.py,Conditional Test Logic,test_path,168
+tests/test_iterutils.py,Conditional Test Logic,test_path,183
+tests/test_iterutils.py,Conditional Test Logic,test_path,198
+tests/test_iterutils.py,Conditional Test Logic,test_dict_to_omd,230
+tests/test_iterutils.py,Conditional Test Logic,test_sort_all_lists,250
+tests/test_iterutils.py,Conditional Test Logic,test_research_custom_enter,438
+tests/test_iterutils.py,Conditional Test Logic,test_backoff_repeat,460
+tests/test_iterutils.py,Conditional Test Logic,test_backoff_repeat,462
+tests/test_iterutils.py,Conditional Test Logic,test_seqguiderator,569
+tests/test_iterutils.py,Exception Handling,test_collector_pattern,279
+tests/test_iterutils.py,Exception Handling,test_add_length,303
+tests/test_iterutils.py,Exception Handling,test_prepop,334
+tests/test_iterutils.py,Unknown Test,test_unremappable,87
+tests/test_iterutils.py,Unknown Test,test_noncallables,104
+tests/test_iterutils.py,Unknown Test,test_backoff_validation,477
+tests/test_iterutils.py,Unknown Test,test_frange_xfrange_zero_step,693
+tests/test_iterutils.py,Verbose Test,test_path,159;205
+tests/test_iterutils.py,Programming Paradigms Blend,(nível do módulo),19;28
+tests/test_iterutils.py,Non-Functional Statement,test_collector_pattern,282
+tests/test_iterutils.py,Non-Functional Statement,test_add_length,306
+tests/test_iterutils.py,Non-Functional Statement,test_prepop,338
+tests/test_listutils.py,Conditional Test Logic,test_barrel_list,41
+tests/test_listutils.py,Conditional Test Logic,test_barrel_list_pop_after_tail_drained,180
+tests/test_listutils.py,Conditional Test Logic,test_barrel_list_matches_list,190
+tests/test_listutils.py,Conditional Test Logic,test_barrel_list_matches_list,192
+tests/test_listutils.py,Conditional Test Logic,test_barrellist_slicing_matches_list,213
+tests/test_listutils.py,Conditional Test Logic,test_barrellist_slicing_matches_list,216
+tests/test_listutils.py,Conditional Test Logic,test_barrellist_delete_across_multiple_barrels,226
+tests/test_listutils.py,Conditional Test Logic,test_barrel_list_delete_to_end,237
+tests/test_listutils.py,Exception Handling,test_barrel_list_getitem_past_end,157
+tests/test_listutils.py,Non-Functional Statement,test_barrel_list_getitem_past_end,160
+tests/test_listutils.py,Undefined Test,_multi_sublist_bl,143
+tests/test_mathutils.py,Conditional Test Logic,test_empty_bits_conversions,133
+tests/test_mathutils.py,Conditional Test Logic,test_empty_bits_rejects_non_hex_inputs,145
+tests/test_mathutils.py,Unknown Test,test_ceil_oor_upper,52
+tests/test_mathutils.py,Unknown Test,test_floor_oor_lower,73
+tests/test_mathutils.py,Unknown Test,test_empty_bits_rejects_non_hex_inputs,144
+tests/test_namedutils.py,Unknown Test,test_empty_field_name_raises_value_error,32
+tests/test_namedutils.py,Unknown Test,test_empty_type_name_raises_value_error,40
+tests/test_namedutils.py,Unknown Test,test_invalid_character_still_raises_value_error,46
+tests/test_setutils.py,Conditional Test Logic,test_indexed_set_mutate,59
+tests/test_setutils.py,Conditional Test Logic,test_indexed_set_mutate,64
+tests/test_setutils.py,Conditional Test Logic,test_iset_index_method,202
+tests/test_setutils.py,Conditional Test Logic,test_iset_index_method,205
+tests/test_setutils.py,Conditional Test Logic,test_iset_index_method,213
+tests/test_setutils.py,Conditional Test Logic,test_iset_index_method,214
+tests/test_setutils.py,Conditional Test Logic,test_iset_index_method,222
+tests/test_setutils.py,Conditional Test Logic,test_iset_index_method,223
+tests/test_setutils.py,Conditional Test Logic,test_iset_index_method,229
+tests/test_setutils.py,Conditional Test Logic,test_iset_index_method,230
+tests/test_setutils.py,Conditional Test Logic,test_iset_index_method,237
+tests/test_setutils.py,Conditional Test Logic,test_iset_index_method,238
+tests/test_setutils.py,Conditional Test Logic,test_iset_slice_agreement,262
+tests/test_setutils.py,Conditional Test Logic,test_iset_slice_agreement,264
+tests/test_setutils.py,Conditional Test Logic,test_iset_slice_agreement,268
+tests/test_setutils.py,Conditional Test Logic,test_iset_slice_agreement,269
+tests/test_setutils.py,Conditional Test Logic,test_iset_slice_agreement,270
+tests/test_setutils.py,Conditional Test Logic,test_iset_slice_agreement,273
+tests/test_setutils.py,Conditional Test Logic,test_iset_scalar_index_multiple_dead_intervals,299
+tests/test_setutils.py,Conditional Test Logic,test_iset_scalar_index_multiple_dead_intervals,303
+tests/test_setutils.py,Verbose Test,test_complement_set,97;194
+tests/test_socketutils.py,Conditional Test Logic,test_short_lines,21
+tests/test_socketutils.py,Conditional Test Logic,test_multibyte_delim,47
+tests/test_socketutils.py,Conditional Test Logic,test_multibyte_delim,48
+tests/test_socketutils.py,Conditional Test Logic,test_multibyte_delim,56
+tests/test_socketutils.py,Conditional Test Logic,test_multibyte_delim,70
+tests/test_socketutils.py,Conditional Test Logic,test_multibyte_delim,73
+tests/test_socketutils.py,Conditional Test Logic,test_client_disconnecting,140
+tests/test_socketutils.py,Conditional Test Logic,test_client_disconnecting,147
+tests/test_socketutils.py,Conditional Test Logic,test_socketutils_netstring,296
+tests/test_socketutils.py,Conditional Test Logic,test_socketutils_netstring,303
+tests/test_socketutils.py,Conditional Test Logic,test_socketutils_netstring,306
+tests/test_socketutils.py,Exception Handling,test_short_lines,30
+tests/test_socketutils.py,Exception Handling,test_multibyte_delim,67
+tests/test_socketutils.py,Exception Handling,test_client_disconnecting,124
+tests/test_socketutils.py,Exception Handling,test_client_disconnecting,135
+tests/test_socketutils.py,Exception Handling,test_client_disconnecting,143
+tests/test_socketutils.py,Exception Handling,test_client_disconnecting,153
+tests/test_socketutils.py,Exception Handling,test_split_delim,172
+tests/test_socketutils.py,Exception Handling,test_basic_nonblocking,190
+tests/test_socketutils.py,Exception Handling,test_basic_nonblocking,201
+tests/test_socketutils.py,Exception Handling,test_basic_nonblocking,213
+tests/test_socketutils.py,Exception Handling,test_socketutils_netstring,316
+tests/test_socketutils.py,Exception Handling,test_socketutils_netstring,333
+tests/test_socketutils.py,Exception Handling,test_socketutils_netstring,344
+tests/test_socketutils.py,Exception Handling,test_socketutils_netstring,349
+tests/test_socketutils.py,Exception Handling,test_socketutils_netstring,359
+tests/test_socketutils.py,Exception Handling,test_socketutils_netstring,364
+tests/test_socketutils.py,Redundant Print,test_socketutils_netstring,275
+tests/test_socketutils.py,Redundant Print,test_socketutils_netstring,300
+tests/test_socketutils.py,Redundant Print,test_socketutils_netstring,312
+tests/test_socketutils.py,Redundant Print,test_socketutils_netstring,320
+tests/test_socketutils.py,Redundant Print,test_socketutils_netstring,337
+tests/test_socketutils.py,Redundant Print,test_socketutils_netstring,348
+tests/test_socketutils.py,Redundant Print,test_socketutils_netstring,353
+tests/test_socketutils.py,Redundant Print,test_socketutils_netstring,355
+tests/test_socketutils.py,Redundant Print,test_socketutils_netstring,363
+tests/test_socketutils.py,Redundant Print,test_socketutils_netstring,368
+tests/test_socketutils.py,Redundant Print,test_socketutils_netstring,371
+tests/test_socketutils.py,Redundant Print,test_socketutils_netstring_timeout,402
+tests/test_socketutils.py,Redundant Print,test_socketutils_netstring_timeout,425
+tests/test_socketutils.py,Sleepy Test,test_socketutils_netstring_timeout,420
+tests/test_socketutils.py,Verbose Test,test_client_disconnecting,107;160
+tests/test_socketutils.py,Verbose Test,test_socketutils_netstring,271;371
+tests/test_socketutils.py,Non-Functional Statement,test_short_lines,33
+tests/test_socketutils.py,Non-Functional Statement,test_client_disconnecting,127
+tests/test_socketutils.py,Non-Functional Statement,test_client_disconnecting,156
+tests/test_socketutils.py,Non-Functional Statement,test_split_delim,175
+tests/test_strutils.py,Conditional Test Logic,test_ellipsize,379
+tests/test_strutils.py,Verbose Test,test_human_readable_list,167;249
+tests/test_strutils.py,Programming Paradigms Blend,(nível do módulo),10;102
+tests/test_timeutils.py,Conditional Test Logic,test_daterange_infinite,44
+tests/test_timeutils.py,Conditional Test Logic,test_relative_time_defaults_to_matching_timezone,125
+tests/test_timeutils.py,Conditional Test Logic,test_relative_time_defaults_to_matching_timezone,128
+tests/test_timeutils.py,Unknown Test,test_daterange_step_does_not_advance,85
+tests/test_urlutils.py,Conditional Test Logic,test_query_params,92
+tests/test_urlutils.py,Conditional Test Logic,test_invalid_ipv6,141
+tests/test_urlutils.py,Conditional Test Logic,test_rel_navigate,277
+tests/test_urlutils.py,Conditional Test Logic,test_chained_navigate,346
+tests/test_urlutils.py,Conditional Test Logic,test_find_all_links,476
+tests/test_urlutils.py,Conditional Test Logic,test_find_all_links,482
+tests/test_urlutils.py,Unknown Test,test_url,48
+tests/test_urlutils.py,Unknown Test,test_invalid_port,133
+tests/test_urlutils.py,Unknown Test,test_invalid_ipv6,138
+tests/test_urlutils.py,Undefined Test,_test_bad_utf8,182

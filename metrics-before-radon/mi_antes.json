@@ -1,0 +1,246 @@
+{
+  "boltons/strutils.py": {
+    "mi": 21.66208782873365,
+    "rank": "A"
+  },
+  "boltons/mboxutils.py": {
+    "mi": 65.15531938771376,
+    "rank": "A"
+  },
+  "boltons/gcutils.py": {
+    "mi": 40.064440261480804,
+    "rank": "A"
+  },
+  "boltons/jsonutils.py": {
+    "mi": 54.74452477420146,
+    "rank": "A"
+  },
+  "boltons/queueutils.py": {
+    "mi": 62.18051843687644,
+    "rank": "A"
+  },
+  "boltons/fileutils.py": {
+    "mi": 37.19196732157596,
+    "rank": "A"
+  },
+  "boltons/cacheutils.py": {
+    "mi": 29.965596281516795,
+    "rank": "A"
+  },
+  "boltons/funcutils.py": {
+    "mi": 23.354484175115765,
+    "rank": "A"
+  },
+  "boltons/socketutils.py": {
+    "mi": 33.759482596175104,
+    "rank": "A"
+  },
+  "boltons/listutils.py": {
+    "mi": 41.95871037037454,
+    "rank": "A"
+  },
+  "boltons/excutils.py": {
+    "mi": 50.46055868186756,
+    "rank": "A"
+  },
+  "boltons/setutils.py": {
+    "mi": 2.3139132391158017,
+    "rank": "C"
+  },
+  "boltons/ioutils.py": {
+    "mi": 34.45232288245672,
+    "rank": "A"
+  },
+  "boltons/ecoutils.py": {
+    "mi": 53.721201083385395,
+    "rank": "A"
+  },
+  "boltons/timeutils.py": {
+    "mi": 37.49590538498877,
+    "rank": "A"
+  },
+  "boltons/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "boltons/mathutils.py": {
+    "mi": 53.97694062397508,
+    "rank": "A"
+  },
+  "boltons/namedutils.py": {
+    "mi": 56.003609911406045,
+    "rank": "A"
+  },
+  "boltons/deprutils.py": {
+    "mi": 83.62414602401932,
+    "rank": "A"
+  },
+  "boltons/tableutils.py": {
+    "mi": 35.145862495084835,
+    "rank": "A"
+  },
+  "boltons/formatutils.py": {
+    "mi": 51.95245630604528,
+    "rank": "A"
+  },
+  "boltons/easterutils.py": {
+    "mi": 55.34686916618655,
+    "rank": "A"
+  },
+  "boltons/urlutils.py": {
+    "mi": 0.4998240116505323,
+    "rank": "C"
+  },
+  "boltons/debugutils.py": {
+    "mi": 55.97971977882074,
+    "rank": "A"
+  },
+  "boltons/typeutils.py": {
+    "mi": 58.05500774166798,
+    "rank": "A"
+  },
+  "boltons/statsutils.py": {
+    "mi": 26.794758469375818,
+    "rank": "A"
+  },
+  "boltons/dictutils.py": {
+    "mi": 14.287175562015198,
+    "rank": "B"
+  },
+  "boltons/pathutils.py": {
+    "mi": 32.15897089823524,
+    "rank": "A"
+  },
+  "boltons/iterutils.py": {
+    "mi": 7.661409651649586,
+    "rank": "C"
+  },
+  "boltons/tbutils.py": {
+    "mi": 33.01580117083187,
+    "rank": "A"
+  },
+  "tests/test_ioutils.py": {
+    "mi": 23.272355509763106,
+    "rank": "A"
+  },
+  "tests/test_formatutils.py": {
+    "mi": 47.37640006754916,
+    "rank": "A"
+  },
+  "tests/test_ecoutils.py": {
+    "mi": 59.777730019470425,
+    "rank": "A"
+  },
+  "tests/test_setutils.py": {
+    "mi": 26.15321984514822,
+    "rank": "A"
+  },
+  "tests/test_funcutils_fb.py": {
+    "mi": 31.563788363051376,
+    "rank": "A"
+  },
+  "tests/test_typeutils.py": {
+    "mi": 66.57480646175716,
+    "rank": "A"
+  },
+  "tests/test_iterutils.py": {
+    "mi": 11.18695223907704,
+    "rank": "B"
+  },
+  "tests/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/test_cacheutils.py": {
+    "mi": 24.430436910970553,
+    "rank": "A"
+  },
+  "tests/test_dictutils.py": {
+    "mi": 6.284244966926907,
+    "rank": "C"
+  },
+  "tests/test_strutils.py": {
+    "mi": 34.0441837866527,
+    "rank": "A"
+  },
+  "tests/test_listutils.py": {
+    "mi": 36.28316519541577,
+    "rank": "A"
+  },
+  "tests/test_namedutils.py": {
+    "mi": 70.13559871184633,
+    "rank": "A"
+  },
+  "tests/test_tbutils.py": {
+    "mi": 54.67273715391851,
+    "rank": "A"
+  },
+  "tests/test_fileutils.py": {
+    "mi": 43.72129184624503,
+    "rank": "A"
+  },
+  "tests/test_gcutils.py": {
+    "mi": 70.19194648257323,
+    "rank": "A"
+  },
+  "tests/test_funcutils.py": {
+    "mi": 31.237608013188773,
+    "rank": "A"
+  },
+  "tests/test_socketutils.py": {
+    "mi": 28.655880821181416,
+    "rank": "A"
+  },
+  "tests/test_jsonutils.py": {
+    "mi": 52.76209969313944,
+    "rank": "A"
+  },
+  "tests/test_tableutils.py": {
+    "mi": 66.68924860478755,
+    "rank": "A"
+  },
+  "tests/test_funcutils_fb_py3.py": {
+    "mi": 41.43865493104534,
+    "rank": "A"
+  },
+  "tests/conftest.py": {
+    "mi": 88.65873763321166,
+    "rank": "A"
+  },
+  "tests/test_timeutils.py": {
+    "mi": 48.742607483558764,
+    "rank": "A"
+  },
+  "tests/test_mathutils.py": {
+    "mi": 44.71612143504771,
+    "rank": "A"
+  },
+  "tests/test_debugutils_trace.py": {
+    "mi": 44.28017099416863,
+    "rank": "A"
+  },
+  "tests/test_urlutils.py": {
+    "mi": 31.90376922438688,
+    "rank": "A"
+  },
+  "tests/test_tbutils_parsed_exc.py": {
+    "mi": 61.63861914717497,
+    "rank": "A"
+  },
+  "tests/test_statsutils.py": {
+    "mi": 70.66242818285691,
+    "rank": "A"
+  },
+  "tests/test_queueutils.py": {
+    "mi": 60.181545583256465,
+    "rank": "A"
+  },
+  "tests/test_pathutils.py": {
+    "mi": 56.38044992282889,
+    "rank": "A"
+  },
+  "tests/test_statsutils_histogram.py": {
+    "mi": 60.45189898455857,
+    "rank": "A"
+  }
+}
